@@ -1,1 +1,11 @@
 C:\Users\Rob\ownCloud\Visual Studio 2015\Source\character-extractor\Character Extractor\bin\Debug\Character Extractor.exe.config
+C:\Users\Rob\ownCloud\Visual Studio 2015\Source\character-extractor\Character Extractor\bin\Debug\Character Extractor.exe
+C:\Users\Rob\ownCloud\Visual Studio 2015\Source\character-extractor\Character Extractor\bin\Debug\Character Extractor.pdb
+C:\Users\Rob\ownCloud\Visual Studio 2015\Source\character-extractor\Character Extractor\bin\Debug\Character Extractor.xml
+C:\Users\Rob\ownCloud\Visual Studio 2015\Source\character-extractor\Character Extractor\obj\Debug\Character Extractor.vbprojResolveAssemblyReference.cache
+C:\Users\Rob\ownCloud\Visual Studio 2015\Source\character-extractor\Character Extractor\obj\Debug\Character_Extractor.frmCharacterExtractor.resources
+C:\Users\Rob\ownCloud\Visual Studio 2015\Source\character-extractor\Character Extractor\obj\Debug\Character_Extractor.Resources.resources
+C:\Users\Rob\ownCloud\Visual Studio 2015\Source\character-extractor\Character Extractor\obj\Debug\Character Extractor.vbproj.GenerateResource.Cache
+C:\Users\Rob\ownCloud\Visual Studio 2015\Source\character-extractor\Character Extractor\obj\Debug\Character Extractor.exe
+C:\Users\Rob\ownCloud\Visual Studio 2015\Source\character-extractor\Character Extractor\obj\Debug\Character Extractor.xml
+C:\Users\Rob\ownCloud\Visual Studio 2015\Source\character-extractor\Character Extractor\obj\Debug\Character Extractor.pdb
